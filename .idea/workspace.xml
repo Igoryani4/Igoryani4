@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar_01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar_01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_01/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_01/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_01/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_01/TreeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_01/Work_in_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_02/Human.java" afterDir="false" />
+    <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="Create Home Task2 OOP">
+      <change afterPath="$PROJECT_DIR$/src/Seminare_02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_02/HomeAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminare_02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminare_02/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminare_02/TreeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminare_02/TreeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminare_02/Work_in_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminare_02/Work_in_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +40,34 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Igoryani41/Documents/Учеба Питон/GeekBrains/JAVA/OOP"
+    "last_opened_file_path": "C:/Users/Igoryani41/Documents/Учеба Питон/GeekBrains/JAVA/OOP/src/Seminare_02"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Work_in_class">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Igoryani41\Documents\Учеба Питон\GeekBrains\JAVA\OOP\src\Seminare_02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Seminare_02.Work_in_class">
     <configuration name="Calculators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminare_01.Calculators" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Seminare_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminare_02.Work_in_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminare_02.Work_in_class" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminare_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seminare_02.Work_in_class" />
         <item itemvalue="Application.Work_in_class" />
         <item itemvalue="Application.Calculators" />
       </list>
@@ -95,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673775081047</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create Home Task2 OOP">
+      <created>1674390014583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674390014583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Home Task2 OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Home Task2 OOP" />
   </component>
 </project>

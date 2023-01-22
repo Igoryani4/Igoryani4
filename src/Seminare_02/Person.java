@@ -5,12 +5,14 @@ import java.util.ArrayList;
 public class Person extends Human {
 
     public Library persLibr;
+    public HomeAnimal persAnimal;
 
-    public Person(String Name, String Gender, int Age, String PersLibr){
+    public Person(String Name, String Gender, int Age, String PersLibr, String Animal){
         setName(Name);
         setAge(Age);
         setGender(Gender);
         this.persLibr = new Library(PersLibr);
+        this.persAnimal = new HomeAnimal(Animal);
     }
 
 

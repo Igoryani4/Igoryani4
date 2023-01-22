@@ -17,4 +17,13 @@ public class TreeView {
 
         }
     }
+
+    public static void viewAnimal (Person root){
+
+        System.out.println(root.persAnimal.homeAnimal);
+        for (HomeAnim e: root.persAnimal.MyAnimals){
+            System.out.println(e.hType + " " + e.hName + " "+ e.hColor);
+
+        }
+    }
 }
