@@ -37,5 +37,8 @@ public class Work_in_class {
         System.out.println("*".repeat(15));
         TreeView.viewAnimal(son);
 
+        dad.persAnimal.enimalVoice();
+        son.persAnimal.enimalVoice();
+
     }
 }
