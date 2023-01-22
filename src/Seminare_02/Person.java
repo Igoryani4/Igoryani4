@@ -1,8 +1,8 @@
-package Seminare_01;
+package Seminare_02;
 
 import java.util.ArrayList;
 
-public class Person extends Human{
+public class Person extends Human {
 
     public Library persLibr;
 

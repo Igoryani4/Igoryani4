@@ -1,4 +1,4 @@
-package Seminare_01;
+package Seminare_02;
 
 public class Work_in_class {
     public static void main(String[] args) {

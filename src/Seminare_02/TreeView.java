@@ -1,4 +1,4 @@
-package Seminare_01;
+package Seminare_02;
 
 public class TreeView {
     public static void view (Person root, int n){
