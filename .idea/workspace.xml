@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="Finisht Home Task3 OOP">
-      <change afterPath="$PROJECT_DIR$/src/Seminare_03/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_03/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_04/AccounWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_04/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_04/Accountable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_04/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_05/Summ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Log.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBookexport.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminare_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminare_03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminare_03/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminare_03/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,30 +39,38 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KMCUPzQRJekcmHms72V31RUZdC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Igoryani41/Documents/Учеба Питон/GeekBrains/JAVA/OOP"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Igoryani41/Documents/Учеба Питон/GeekBrains/JAVA/OOP&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalResources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Igoryani41\Documents\Учеба Питон\GeekBrains\JAVA\OOP\src\Seminare_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Calculators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminare_01.Calculators" />
+  <component name="RunManager" selected="Application.Seminare_05.PhoneBook.Main">
+    <configuration name="Lecture_05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_05.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminare_01.*" />
+          <option name="PATTERN" value="Lecture_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Work_in_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminare_01.Work_in_class" />
+    <configuration name="Seminare_05.PhoneBook.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminare_05.PhoneBook.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminare_01.*" />
+          <option name="PATTERN" value="Seminare_05.PhoneBook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Seminare_05.PhoneBook.Main" />
         <item itemvalue="Application.Seminare_04.Main" />
+        <item itemvalue="Application.Lecture_05.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Seminare_02.Work_in_class" />
-        <item itemvalue="Application.Work_in_class" />
-        <item itemvalue="Application.Calculators" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674717955499</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finisht Home Task3 OOP">
+      <created>1674736022905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674736022905</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,8 +192,24 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create Home Task2 OOP" />
     <MESSAGE value="Finisht Home Task2 OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finisht Home Task2 OOP" />
+    <MESSAGE value="Finisht Home Task3 OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finisht Home Task3 OOP" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
