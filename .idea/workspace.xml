@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="Finisht Home Task3 OOP">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_05/Summ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/AddressBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Log.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBook/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminare_05/PhoneBookexport.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="Finisht Home Task5 OOP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674736022905</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finisht Home Task5 OOP">
+      <created>1675517479670</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675517479670</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +188,8 @@
     <MESSAGE value="Create Home Task2 OOP" />
     <MESSAGE value="Finisht Home Task2 OOP" />
     <MESSAGE value="Finisht Home Task3 OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finisht Home Task3 OOP" />
+    <MESSAGE value="Finisht Home Task5 OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finisht Home Task5 OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

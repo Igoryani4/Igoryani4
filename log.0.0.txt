@@ -1,0 +1,4 @@
+февр. 04, 2023 6:03:31 PM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Start program 
+февр. 04, 2023 6:03:32 PM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Main menu
