@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="Finisht Home Task5 OOP" />
+    <list default="true" id="71867911-1ad9-41b3-95ea-983890842c8f" name="Changes" comment="Finisht Home Task5 OOP">
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/CarInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/CardPayments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/CashPayments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/DepositAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/PrinterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/RentCarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminare_06/Salon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.0.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.0.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.0.0.txt.lck" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675517479670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finisht Home Task5 OOP">
+      <created>1675523073091</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675523073091</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

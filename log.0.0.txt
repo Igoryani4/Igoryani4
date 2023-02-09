@@ -2,3 +2,37 @@
 INFO: Start program 
 февр. 04, 2023 6:03:32 PM Seminare_05.PhoneBook.Menu mainMenu
 INFO: Main menu
+февр. 05, 2023 9:56:29 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Start program 
+февр. 05, 2023 9:56:29 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Main menu
+февр. 05, 2023 9:56:36 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Input menu item  Show all contact
+февр. 05, 2023 9:56:36 AM Seminare_05.PhoneBook.AddressBook AddresBook
+INFO: Add contacts in list
+февр. 05, 2023 9:56:36 AM Seminare_05.PhoneBook.AddressBook display
+INFO: Finish show all contacts
+февр. 05, 2023 9:56:36 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Main menu
+февр. 05, 2023 9:56:40 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Input menu item  import contact
+февр. 05, 2023 9:56:40 AM Seminare_05.PhoneBook.FileManager importFile
+INFO: Start Import files
+февр. 05, 2023 9:56:40 AM Seminare_05.PhoneBook.FileManager importFile
+INFO: Finish Import files
+февр. 05, 2023 9:56:40 AM Seminare_05.PhoneBook.AddressBook display
+INFO: Finish show all contacts
+февр. 05, 2023 9:56:40 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Main menu
+февр. 05, 2023 9:56:42 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Input menu item  import contact
+февр. 05, 2023 9:56:42 AM Seminare_05.PhoneBook.FileManager importFile
+INFO: Start Import files
+февр. 05, 2023 9:56:42 AM Seminare_05.PhoneBook.FileManager importFile
+INFO: Finish Import files
+февр. 05, 2023 9:56:42 AM Seminare_05.PhoneBook.AddressBook display
+INFO: Finish show all contacts
+февр. 05, 2023 9:56:42 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Main menu
+февр. 05, 2023 9:56:43 AM Seminare_05.PhoneBook.Menu mainMenu
+INFO: Input menu item  exit
